@@ -351,7 +351,5 @@ We'd love to hear your thoughts! If you use this template, feel free to share yo
 ---
 
 ### Quick Links
-- [View Live Demo](#) – Replace with your hosted URL
-- [Report an Issue](#) – GitHub Issues
-- [Request a Feature](#) – GitHub Discussions
+- [View Live Demo](https://leon-creative-agency-six.vercel.app/) – Replace with your hosted URL
 - [View Source Code](#) – GitHub Repository
