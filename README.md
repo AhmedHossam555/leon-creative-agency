@@ -2,7 +2,7 @@
 
 A modern, fully responsive landing page for a creative agency. Built with semantic HTML5, BEM methodology, and contemporary CSS techniques including logical properties, `clamp()`, CSS Grid, and Flexbox—with accessibility and performance at the core.
 
-![Leon Agency Preview](https://placehold.co/1200x630/10cab7/white?text=Leon+Agency)
+![Leon Agency Preview](images/leon-image.png)
 
 ---
 
@@ -27,6 +27,8 @@ leon-creative-agency/
 │   └── style.css
 ├── js/                  # Interactivity and navigation logic
 │   └── main.js
+├── images/                  # Image screen
+│   └── leon-image.png
 ├── index.html           # Main entry point
 └── README.md            # Project documentation
 ```
